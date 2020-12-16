@@ -43,12 +43,15 @@
 						</div>
 						<div class="yui-u">
 							<p class="enlarge">
-								Professional highly experienced in web and mobile development, always seeking smart and high quality solutions.
+                                I'm a full stack engineer with <?php echo (int) date( 'Y' ) - 2008; ?> years of experience.
+                                I've been developing complex web applications and leading other developers for several years.
+                                <br><br>
+                                My strongest abilities - according to my peers - are that I have a good eye for finding and solving bugs, as well as a great analytical and problem-solving way of thinking. This helps me see problems from a broader perspective and build great solutions to those problems.
 							</p>
 						</div>
 					</div><!--// .yui-gf -->
 
-					<div class="yui-gf">
+					<?php /*<div class="yui-gf">
 						<div class="yui-u first">
 							<h2>Skills</h2>
 						</div>
@@ -69,9 +72,9 @@
 									<p>Development of 100% customizable virtual stores, requiring no programming skills from users.</p>
 								</div>
 						</div>
-					</div><!--// .yui-gf -->
+					</div><!--// .yui-gf --> */ ?>
 
-					<div class="yui-gf">
+					<?php /*<div class="yui-gf">
 						<div class="yui-u first">
 							<h2>Technical<br />Knowledge</h2>
 						</div>
@@ -97,7 +100,7 @@
 								<li class="last">React Native</li>
 							</ul>
 						</div>
-					</div><!--// .yui-gf-->
+					</div><!--// .yui-gf--> */ ?>
 
 					<div class="yui-gf">
 	
@@ -108,9 +111,19 @@
 						<div class="yui-u">
 
 	                    <div class="job">
+							<h2>NextSeed</h2>
+							<h3>Senior Software Engineer</h3>
+							<h4>2015 - Today</h4>
+							<p>Full-stack web development of the NextSeed investment platform. I've been coding a wide range of complex functionalities, such as bank integrations for deposits, withdrawals, investments, payments, and so on. I've also been acting as a tech lead on the server side of the application, helping the product managers with requirements and ensuring the best practices are implemented in the code.</p>
+                            <p>My current role on the team is <strong>Server Tech Lead</strong>. I'm responsible for any code that goes into the server side of the application, so I work on the most complex functionalities and review any other code that is pushed to the server repository. I also troubleshoot issues in production and assign tasks to myself and other to solve problems and create new functionalities.</p>
+                            <p>Aside from coding, I've been coordinating the server team in a way it works around the clock. I assign tickets and organize the tasks in a way that there's always a server developer available (we have developers in India, US and Brazil).</p>
+                            <p>On my spare time I've been taking online courses on Coursera, Udemy and A Cloud Guru, so I'm always learning new things and improving myself.</p>
+	                    </div>
+
+	                    <div class="job">
 							<h2>Toptal</h2>
 							<h3>Freelance Senior Software Engineer</h3>
-							<h4>2014 - Today</h4>
+							<h4>2014 - 2015</h4>
 							<p>Website, web application and mobile development for companies all over the world. Working on projects of different sizes and complexities, from simple websites to large scale web applications such as crowdfunding platforms and multi-country marketplaces.</p>
 	                    </div>
 
