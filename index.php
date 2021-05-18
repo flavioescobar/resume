@@ -110,6 +110,15 @@
 
 						<div class="yui-u">
 
+						<div class="job">
+							<h2>Republic</h2>
+							<h3>Senior Software Engineer</h3>
+							<h4>2021 - Today</h4>
+							<p>After NextSeed's acquisition by Republic I was transitioned to it. For strategic reasons and due to the domain knowledge that I obtained over 5+ years working for NextSeed, the stakeholders decided it would be a great idea to keep me working on a part-time basis for NextSeed and Republic.</p>
+							<p>One of my first projects in Republic had a huge importance - I led a series of enhancements and bug fixes on the crypto currency integration for helping launch an offering that raised $27 million dollars in just a few hours.</p>
+							<p>I interact with the VP of Engineering on a daily basis to help make key decisions about infrastructure, best practices and standards, as well as peer review code from other senior engineers.</p>
+	                    </div>
+
 	                    <div class="job">
 							<h2>NextSeed</h2>
 							<h3>Senior Software Engineer</h3>
@@ -120,12 +129,12 @@
                             <p>On my spare time I've been taking online courses on Coursera, Udemy and A Cloud Guru, so I'm always learning new things and improving myself.</p>
 	                    </div>
 
-	                    <div class="job">
+	                    <?php /* <div class="job">
 							<h2>Toptal</h2>
 							<h3>Freelance Senior Software Engineer</h3>
 							<h4>2014 - 2015</h4>
 							<p>Website, web application and mobile development for companies all over the world. Working on projects of different sizes and complexities, from simple websites to large scale web applications such as crowdfunding platforms and multi-country marketplaces.</p>
-	                    </div>
+	                    </div> */ ?>
 
 	                    <div class="job">
 							<h2>Companhia de Governança Eletrônica do Salvador</h2>
