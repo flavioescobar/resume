@@ -112,7 +112,7 @@
 
 						<div class="job">
 							<h2>Republic</h2>
-							<h3>Senior Software Engineer</h3>
+							<h3>Engineering Director</h3>
 							<h4>2021 - Today</h4>
 							<p>After NextSeed's acquisition by Republic I was transitioned to it. For strategic reasons and due to the domain knowledge that I obtained over 5+ years working for NextSeed, the stakeholders decided it would be a great idea to keep me working on a part-time basis for NextSeed and Republic.</p>
 							<p>One of my first projects in Republic had a huge importance - I led a series of enhancements and bug fixes on the crypto currency integration for helping launch an offering that raised $27 million dollars in just a few hours.</p>
